@@ -132,16 +132,18 @@ Estimate of time needed to complete: 1.5 hour
 
 Start time: 4:55
 
-Finish time: _____
+Finish time: 6:30
 
-Actual time needed to complete: _____
+Actual time needed to complete: 1 hour and 35 min
 
 Number and name of feature: Feature #4: Add functionality
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: 1 hour
 
-Start time: _____
+Start time: 6:40
 
-Finish time: _____
+Finish time: 8
 
-Actual time needed to complete: _____
+Actual time needed to complete: 1 hour and 20 min
+
+[My Deployed App](https://ishaq-portfolio.herokuapp.com/)
