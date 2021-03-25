@@ -147,3 +147,5 @@ Finish time: 8
 Actual time needed to complete: 1 hour and 20 min
 
 [My Deployed App](https://ishaq-portfolio.herokuapp.com/)
+
+Thanks for reading
