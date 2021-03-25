@@ -104,3 +104,48 @@ Then the portfolio contents should be displayed
     - A question within the context of today's lab assignment
     - An observation about the lab assignment, or related 'Ah-hah!' moment
     - How long you spent working on this assignment
+
+## lab
+Number and name of feature: Feature #1: Deployment
+
+Estimate of time needed to complete: 1 hour
+
+Start time: 2:30
+
+Finish time: 4:20
+
+Actual time needed to complete: 1 hour and 50 min
+
+Number and name of feature: Feature #2: Refactor the CSS
+
+Estimate of time needed to complete: 30 min
+
+Start time: 4:30
+
+Finish time: 4:50
+
+Actual time needed to complete: 20min
+
+Number and name of feature: Feature #3: Modify the contents
+
+Estimate of time needed to complete: 1.5 hour
+
+Start time: 4:55
+
+Finish time: 6:30
+
+Actual time needed to complete: 1 hour and 35 min
+
+Number and name of feature: Feature #4: Add functionality
+
+Estimate of time needed to complete: 1 hour
+
+Start time: 6:40
+
+Finish time: 8
+
+Actual time needed to complete: 1 hour and 20 min
+
+[My Deployed App](https://ishaq-portfolio.herokuapp.com/)
+
+Thanks for reading
